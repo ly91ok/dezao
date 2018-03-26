@@ -1,0 +1,5 @@
+/* 选择器格式为：html #layui_layer_skin文件夹名stylecss，这一点非常重要 */
+html #layui_layer_skinyourskinstylecss{display:none; position: absolute; width:1989px;}
+body .layer-ext-lyskin .layui-layer-title{background-color:#27a9e3;height:59px;line-height:59px;color:#fff;font-size:25px}
+body .layer-ext-lyskin .layui-layer-ico{background:url("cs_btn_03.png")}
+body .layer-ext-lyskin .layui-layer-setwin a{width:26px;height:27px}

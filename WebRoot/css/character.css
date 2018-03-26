@@ -1,0 +1,11 @@
+/* CSS Document */
+.comment-xingzuo {color: #00963b;text-align: center;margin-bottom: 3px;}
+.comment-birthday {color: #00963b;text-align: center;margin-bottom: 3px;}
+.item-comment {width: 21%;margin-left: 2%;margin-right: 2%;float: left;margin-bottom: 20px}
+.item-comment img {margin: 0 auto;display: block;margin-bottom: 3px;}
+.comment-edit {border: 1px solid #00963b;padding: 2px;width: 40%}
+.comment-edit .title {text-align: center;color: #00963b;    margin-bottom: 0px;}
+.shuzi {border: 1px solid #00963b;padding: 2px;    width: 8px;
+    color: #00963b;
+    display: inline-block;
+    margin-right: 4px;}

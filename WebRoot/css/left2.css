@@ -1,0 +1,29 @@
+/* CSS Document */
+body {padding: 10px 10px 10px 10px}
+.left-menu {margin: 0 auto;
+box-shadow:3px 3px 10px #d2cece;
+    box-shadow: 3px 3px 10px #d2cece;
+    -moz-box-shadow: 3px 3px 10px #d2cece;
+    -webkit-box-shadow: 3px 3px 10px #d2cece;
+    background: #fbfbfb;
+        padding-top: 40px;
+    padding-bottom: 40px;
+}
+.item{text-align: left;padding: 10px;font-size: 1.3em;cursor: pointer;}
+.item.current {
+    color: white;
+background: -webkit-gradient(linear, left top, left bottom, from(#24dc0f), to(#31880c));
+    background: -moz-linear-gradient(top, #24dc0f, #31880c);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#24dc0f', endColorstr='#31880c');
+
+}
+
+
+.orange {
+    color: #fef4e9;
+     border: solid 1px #b2d485;
+     border-radius: 4px;
+background: -webkit-gradient(linear, left top, left bottom, from(#24dc0f), to(#31880c));
+    background: -moz-linear-gradient(top, #24dc0f, #31880c);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#24dc0f', endColorstr='#31880c');
+}

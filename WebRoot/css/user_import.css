@@ -1,0 +1,12 @@
+/* CSS Document */
+ .search-people {
+ 	    width: 150px;
+    margin: 0 auto;
+    border: 1px solid #00963b;
+    /* margin-top: 20%; */
+    padding: 10px;
+    text-align: center;
+    float: left;
+    color: #00963b;
+    font-size: 1.3em
+ }

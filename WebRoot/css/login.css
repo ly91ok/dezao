@@ -1,0 +1,26 @@
+/* CSS Document */
+body {background: whitesmoke;}
+.zhongjian {
+	    color: #fef4e9;
+     border: solid 1px #b2d485;
+     border-radius: 4px;
+background: -webkit-gradient(linear, left top, left bottom, from(#24dc0f), to(#31880c));
+    background: -moz-linear-gradient(top, #24dc0f, #31880c);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#24dc0f', endColorstr='#31880c');
+}
+
+.dialog {margin: 0 auto;width: 430px;height:135px;background: url(../images/denglukuang.png);}
+.input {width: 150px;}
+.dialog span {margin-left: 10px;margin-right: 10px;}
+
+.tijiao {
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-left: 10px;
+    color: #fef4e9;
+     border: solid 1px #b2d485;
+     border-radius: 4px;
+background: -webkit-gradient(linear, left top, left bottom, from(#24dc0f), to(#31880c));
+    background: -moz-linear-gradient(top, #24dc0f, #31880c);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#24dc0f', endColorstr='#31880c');
+}
